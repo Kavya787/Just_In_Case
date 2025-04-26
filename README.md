@@ -2,6 +2,16 @@
 
 A VR-based training solution designed to improve disaster preparedness through immersive and interactive scenarios. This project uses virtual reality technology to enhance emergency response skills, decision-making, and knowledge retention.
 
+---
+
+## Contributors
+
+- Kavya : [@Kavya787](https://github.com/Kavya787)
+- Sagar Gupta : [@sagar23458](https://github.com/sagar23458)
+- Anouska Sahoo : [@anouskasahoo](https://github.com/anouskasahoo)
+
+---
+
 ## Project Overview
 
 The limitations of text-heavy and non-interactive training often hinder disaster preparedness. This simulator leverages VR to create realistic emergency environments, enabling users to practice key survival actions in a safe, controlled setting.
