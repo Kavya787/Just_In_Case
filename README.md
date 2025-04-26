@@ -16,7 +16,7 @@ The limitations of text-heavy and non-interactive training often hinder disaster
 
 ## User Interface
 
-![image](https://github.com/user-attachments/assets/8be17779-a087-4f0e-8305-ec86d6ccb429)
+<img src="https://github.com/user-attachments/assets/8be17779-a087-4f0e-8305-ec86d6ccb429" width="500">
 
 
 ## Tech Stack
@@ -38,4 +38,6 @@ The limitations of text-heavy and non-interactive training often hinder disaster
 5. Build and run the project for Android (XR supported).
 
 ---
-Hope you enjoy viewing it as much as we enjoyed making it!
+*Hope you enjoy viewing it as much as we enjoyed making it!*
+
+⛑
